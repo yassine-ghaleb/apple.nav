@@ -1,0 +1,54 @@
+body{
+	background-color:#141414; 
+}
+
+
+.navi ul li {
+	background-color:#1F1F1F;
+	list-style-type:none;
+	margin:0;	
+	padding:0;
+	display:inline;
+	width:90px; 
+	color:#1F1F1F;
+	
+}
+a{
+	font-size: 13px;
+	color:white;
+	list-style-type:none;
+	display:inline;
+	padding:40px;
+	margin:0px;
+	text-decoration:none;
+}
+ul{
+	background: #1F1F1F;
+	margin:0px;
+	content:10px;
+	list-style-type:none;
+	font-family:Helvetica,Arial,sans-serif;
+   
+   
+}
+li{
+	text-decoration:none: 
+	margin:8px;
+}
+img.apple{
+	width:22px;
+	height: 29px;
+	padding-bottom: :3px; 
+
+}
+div{
+	display:block;
+	background-color: #1F1F1F;
+    padding:10px;
+    position: absolute;
+    left: 2px;
+    margin:0;
+    border:0;
+  
+}
+
